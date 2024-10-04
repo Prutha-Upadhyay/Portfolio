@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.30de9818.css",
+    "main.js": "/portfolio/static/js/main.23f99175.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/ExploreBharat.png": "/portfolio/static/media/ExploreBharat.30ecea230df2b93a6312.png",
+    "static/media/EventNestle.png": "/portfolio/static/media/EventNestle.db412c6bdc3c19a3cfb1.png",
+    "static/media/HandCraftedHub.png": "/portfolio/static/media/HandCraftedHub.438fbc5cd1f0b8a93da1.png",
+    "static/media/ChatApp.png": "/portfolio/static/media/ChatApp.bc5f8e3916c361c320b8.png",
+    "static/media/LiveChatApp.png": "/portfolio/static/media/LiveChatApp.467bfc79d3e35884406c.png",
+    "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/ProfilePic-fotor-bg-remover-20240928195643.png": "/portfolio/static/media/ProfilePic-fotor-bg-remover-20240928195643.2304c298648a304f7414.png",
+    "static/media/Prutha_Upadhyay_Resume.pdf": "/portfolio/static/media/Prutha_Upadhyay_Resume.775f58a906a8ef832877.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/contact-img.svg": "/portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/nav-icon2.svg": "/portfolio/static/media/nav-icon2.b8e63d452c6783bfb735b9c0cd447e02.svg",
+    "static/media/nav-icon1.svg": "/portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/footer1.svg": "/portfolio/static/media/footer1.aa5dd22e5860876f7565fe643b134e3d.svg",
+    "static/media/footer.svg": "/portfolio/static/media/footer.0b97a13ac69277cd91bb6c65b33c04b1.svg",
+    "main.30de9818.css.map": "/portfolio/static/css/main.30de9818.css.map",
+    "main.23f99175.js.map": "/portfolio/static/js/main.23f99175.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30de9818.css",
+    "static/js/main.23f99175.js"
+  ]
+}
